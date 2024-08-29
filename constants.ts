@@ -38,8 +38,8 @@ export const DEFAULT_TOKEN = {
 };
 
 export const token_info: tokenInfo = {
-  token_name: 'TEST_TOKEN',
-  token_symbol: 'TEST',
+  token_name: 'Rafi_B',
+  token_symbol: 'RAFB',
   description: `TEST TOKEN.\n\nTELEGRAM:  \nTWITTER:  \n WEBSITE:  `,
   image_info: {
     image: imageFile ?? '',
